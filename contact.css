@@ -1,0 +1,9 @@
+#main-page .contact-data{
+ display: block;
+ color: black;
+ background: rgba(234, 234, 234, 0.7);
+ height: 300px;
+ width: 300px;
+ margin: auto;
+ padding: 80px;
+}

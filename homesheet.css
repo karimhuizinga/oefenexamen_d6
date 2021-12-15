@@ -1,0 +1,22 @@
+#main-page{
+  background: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+#main-page .title{
+  padding: 10px;
+}
+
+#main-page .test-block{
+  display: block;
+  color: black;
+  background: rgba(234, 234, 234, 0.7);
+  height: 150px;
+  width: 200px;
+  float: right;
+  margin-right: 200px;
+  margin-top: 200px;
+}
